@@ -1,5 +1,5 @@
 # Java Practice Programs Repository 💻
-#Check the src folder, you will find all the codes there
+Check the src folder, you will find all the codes there
 
 Welcome to my Java Practice Programs repository! This collection includes various Java programs I’ve practiced, covering topics like OOP, ArrayList, arrays, sorting algorithms, streams, JDBC, and more.
 
